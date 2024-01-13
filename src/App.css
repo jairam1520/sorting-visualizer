@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  margin-left: 400px;
+  margin-top: 250px;
+  display: flex;
+  flex-direction: row;
+  height: 300px; /* Adjust container height */
+  align-items: flex-end;
+  min-height: 20vh;
+
+}
+.bar{
+  width: 20px;
+  height: 150px;
+  margin: 20px;
+  color: white;
+}
+
+button{
+  background-color: rgb(30 144 255);
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+
